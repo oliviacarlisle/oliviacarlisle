@@ -1,8 +1,10 @@
 ## Hi there 👋 I'm Olivia
 
+## About Me
+
 ## 📫 How to reach me
   - Email: [oliviacarlisle.6jgch@simplelogin.com](mailto:oliviacarlisle.6jgch@simplelogin.com)
-  - LinkedIn: [https://www.linkedin.com/in/oliviagcarlisle/](https://bit.ly/oliviagcarlisle-linkedin)
+  - LinkedIn: [https://linkedin.com/in/oliviagcarlisle/](https://www.linkedin.com/in/oliviagcarlisle/)
 <!--
 **oliviacarlisle/oliviacarlisle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
