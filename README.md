@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Olivia
 
-## About Me
+Full stack developer specializing in TypeScript and Node.js with expertise in AWS cloud computing. I build fast, reliable applications with clean code and a focus on performance. Backend enthusiast who also enjoys creating responsive frontend experiences and architecting scalable cloud solutions.
 
 ## 📫 How to reach me
   - Email: [oliviacarlisle.6jgch@simplelogin.com](mailto:oliviacarlisle.6jgch@simplelogin.com)
