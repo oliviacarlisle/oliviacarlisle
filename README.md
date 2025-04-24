@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Olivia
 
-📫 How to reach me: ...
+## 📫 How to reach me: ...
   - Email: [oliviacarlisle.6jgch@simplelogin.com](mailto:oliviacarlisle.6jgch@simplelogin.com)
   - LinkedIn: [https://www.linkedin.com/in/oliviagcarlisle/](https://bit.ly/oliviagcarlisle-linkedin)
 <!--
