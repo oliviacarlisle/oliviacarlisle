@@ -1,6 +1,10 @@
 ## Hi there 👋 I'm Olivia
 
-Full stack developer with a strong backend focus, specializing in TypeScript, React, Node.js, and Python. I have deep experience with AWS cloud services and a passion for building fast, reliable applications. I prioritize clean, maintainable code, performance, and thoughtful architecture—crafting robust backend systems while delivering modern, responsive frontend experiences.
+I build high-performance web applications and scalable infrastructure that drive real business outcomes. With over 4 years in full-stack engineering, I specialize in creating efficient solutions using AWS, Node.js/TypeScript, React, Docker, and SQL/NoSQL databases.
+
+Passionate about the open-source community, I co-created CacheMunk, a Node.js caching library that boosted throughput 8–10x, reduced latency by 90%, and improved JSON compression by 75%. I also enjoy presenting technical talks, such as "Decoupling Systems for Scalability" and workshops on AWS Cloud Development Kit (CDK).
+
+I love connecting with fellow engineers—feel free to reach out about distributed systems, infrastructure, or collaboration opportunities!
 
 ## 📫 Get in touch
   - Email: [dev@oliviacarlisle.me](mailto:dev@oliviacarlisle.me)
