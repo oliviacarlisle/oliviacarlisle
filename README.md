@@ -7,7 +7,7 @@ Passionate about the open-source community, I co-created CacheMunk, a Node.js ca
 I love connecting with fellow engineers—feel free to reach out about distributed systems, infrastructure, or collaboration opportunities!
 
 ## 📫 Get in touch
-  - Email: [mailto:dev@oliviacarlisle.me](dev@oliviacarlisle.me)
+  - Email: [dev@oliviacarlisle.me](mailto:dev@oliviacarlisle.me)
   - LinkedIn: [https://linkedin.com/in/oliviagcarlisle/](https://www.linkedin.com/in/oliviagcarlisle/)
 <!--
 **oliviacarlisle/oliviacarlisle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
