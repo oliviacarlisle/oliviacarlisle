@@ -2,7 +2,7 @@
 
 NYC-based Software Engineer building scalable systems that handle real-world demands.
 
-🚀 Co-creator of CacheMunk, an open-source Redis-compatible caching library where I developed caching strategies that deliver 8-10x throughput gains  
+🚀 Co-creator of CacheMunk, an open-source Redis-compatible caching library  
 💻 Full-stack experience: AWS, AI/ML, TypeScript/Node.js, Python, React, Docker, distributed systems  
 🎯 Focused on shipping reliable, scalable solutions
 
