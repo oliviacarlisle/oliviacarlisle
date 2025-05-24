@@ -8,7 +8,7 @@ NYC-based Software Engineer building scalable systems that handle real-world dem
 
 I believe great engineering is about elegant solutions to hard problems. When I'm not writing code, you'll find me teaching AWS CDK workshops or speaking about event-driven architectures.
 
-Always down to chat about distributed systems, infrastructure, or interesting engineering challenges. Let's build something cool together!
+Always down to chat about distributed systems, AI/ML infrastructure, or interesting engineering challenges. Feel free to reach out!
 
 ## 📫 Get in touch
   - Email: [dev@oliviacarlisle.me](mailto:dev@oliviacarlisle.me)
