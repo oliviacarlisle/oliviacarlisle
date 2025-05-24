@@ -1,10 +1,14 @@
 ## Hi there 👋 I'm Olivia
 
-NYC-based Software Engineer focused on scalable web apps, distributed systems, and cloud infrastructure (4+ years full-stack). Key tools: AWS, Node.js/TS, React, Docker, & databases.
+NYC-based Software Engineer building scalable systems that handle real-world demands.
 
-Co-creator of the open-source Node.js caching library, CacheMunk (open-source Node.js caching). I love teaching others about tech like AWS CDK and event-driven systems.
+🚀 Co-creator of CacheMunk, an open-source Redis-compatible caching library that delivers 8-10x throughput gains  
+💻 Full-stack expertise: AWS, AI/ML, TypeScript/Node.js, Python React, Docker, distributed systems  
+🎯 Shipping production code that scales  
 
-Open to connecting with fellow engineers—feel free to reach out about distributed systems, infrastructure, or collaboration opportunities!
+I believe great engineering is about elegant solutions to hard problems. When I'm not writing code, you'll find me teaching AWS CDK workshops or speaking about event-driven architectures.
+
+Always down to chat about distributed systems, infrastructure, or interesting engineering challenges. Let's build something cool together!
 
 ## 📫 Get in touch
   - Email: [dev@oliviacarlisle.me](mailto:dev@oliviacarlisle.me)
