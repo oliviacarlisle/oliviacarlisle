@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Olivia
 
-NYC-based Software Engineer building scalable systems that handle real-world demands.
+NYC-based software engineer currently developing ad tech infrastructure at Amazon.
 
 🚀 Co-creator of CacheMunk, an open-source Redis-compatible caching library  
 💻 Full-stack experience: AWS, AI/ML, TypeScript/Node.js, Python, React, Docker, distributed systems  
