@@ -9,3 +9,5 @@ NYC-based software engineer currently developing ad tech infrastructure at Amazo
 I love both the problem-solving aspect of engineering and sharing knowledge—recently giving talks on event-driven architectures and AWS CDK.
 
 Happy to connect about distributed systems, AI/ML infrastructure, or interesting engineering challenges!
+
+Check out my personal dev site at [oliviacarlisle.dev](https://olivicarlisle.dev)
