@@ -11,3 +11,5 @@ I love both the problem-solving aspect of engineering and sharing knowledge—re
 Happy to connect about distributed systems, AI/ML infrastructure, or interesting engineering challenges!
 
 Check out my personal dev site at [oliviacarlisle.dev](https://oliviacarlisle.dev){:target="_blank"}
+
+<a href="https://example.com" target="_blank" rel="noopener noreferrer">Link text</a>
