@@ -12,4 +12,4 @@ Happy to connect about distributed systems, AI/ML infrastructure, or interesting
 
 Check out my personal dev site at [oliviacarlisle.dev](https://oliviacarlisle.dev){:target="_blank"}
 
-<a href="https://example.com" target="_blank" rel="noopener noreferrer">Link text</a>
+<a href="https://oliviacarlisle.dev" target="_blank" rel="noopener noreferrer">oliviacarlisle.dev</a>
